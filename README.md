@@ -26,3 +26,15 @@ KEY FINDINGS
 CONCLUSION
 
 From this lab, we understood how face detection and clustering can work together. We learned how to use OpenCV for detecting faces and how to extract simple image features for machine learning. Even though we only used basic color features, the clustering results were reasonable. This experiment helped in understanding practical applications of computer vision and unsupervised learning.
+
+<img width="1153" height="704" alt="image" src="https://github.com/user-attachments/assets/51e1202d-bc40-4c0a-92ed-570e11f1f365" />
+<img width="718" height="387" alt="image" src="https://github.com/user-attachments/assets/362c5fd4-8b73-4bc0-adca-facdb527d1a7" />
+<img width="716" height="381" alt="image" src="https://github.com/user-attachments/assets/2f7d0658-265c-4309-8257-f90d385a3298" />
+<img width="351" height="387" alt="image" src="https://github.com/user-attachments/assets/42b51185-a7c3-4a26-ba85-f80d08084d44" />
+<img width="714" height="385" alt="image" src="https://github.com/user-attachments/assets/2d7e152c-850c-4940-a154-a0b34ebb53fa" />
+<img width="716" height="386" alt="image" src="https://github.com/user-attachments/assets/2cc01322-bf44-427b-b72d-f6ade8f4fe21" />
+
+
+
+
+
